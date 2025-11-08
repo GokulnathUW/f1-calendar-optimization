@@ -1,0 +1,10 @@
+numpy
+pandas
+geopy
+googlemaps
+requests
+plotly
+folium
+matplotlib
+pyproj
+gamspy
