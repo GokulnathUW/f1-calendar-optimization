@@ -1,7 +1,7 @@
 numpy
 pandas
 geopy
-googlemaps
+tqdm
 requests
 plotly
 folium
