@@ -1,0 +1,25 @@
+circuit_id,circuit_name,continent,country,city,latitude,longitude
+BAH,Bahrain International Circuit,Asia,Bahrain,Sakhir,26.0316553,50.5145563
+SAU,Jeddah Corniche Circuit,Asia,Saudi Arabia,Jeddah,21.5504432,39.1742363
+AUS,Albert Park Circuit,Australia,Australia,Melbourne,-37.8142454,144.9631732
+JPN,Suzuka International Racing Course,Asia,Japan,Suzuka,34.8817102,136.5836516
+CHN,Shanghai International Circuit,Asia,China,Shanghai,31.2312707,121.4700152
+MIA,Miami International Autodrome,N America,USA,Miami,25.7741566,-80.1935973
+MON,Circuit de Monaco,Europe,Monaco,Monte Carlo,43.7402961,7.426559
+CAN,Circuit Gilles Villeneuve,N America,Canada,Montreal,45.5031824,-73.5698065
+ESP,Circuit de Barcelona-Catalunya,Europe,Spain,Barcelona,41.3825802,2.177073
+MAD,Circuito de Madring,Europe,Spain,Madrid,40.416782,-3.703507
+AUT,Red Bull Ring,Europe,Austria,Spielberg,47.2122736,14.7857412
+GBR,Silverstone Circuit,Europe,United Kingdom,Silverstone,52.0917705,-1.0260194
+HUN,Hungaroring,Europe,Hungary,Mogyorod,47.5986636,19.2384215
+BEL,Circuit de Spa-Francorchamps,Europe,Belgium,Stavelot,50.3942409,5.9310335
+NED,Circuit Zandvoort,Europe,Netherlands,Zandvoort,52.3595223,4.5350259
+MONZ,Autodromo Nazionale di Monza,Europe,Italy,Monza,45.6395418,9.2788304
+SIN,Marina Bay Street Circuit,Asia,Singapore,Singapore,1.357107,103.8194992
+AZE,Baku City Circuit,Asia,Azerbaijan,Baku,40.3755885,49.8328009
+USA_COT,Circuit of the Americas,N America,USA,Austin,30.2711286,-97.7436995
+USA_LVG,Las Vegas Strip Circuit,N America,USA,Las Vegas,36.1674263,-115.1484131
+MEX,Autódromo Hermanos Rodríguez,N America,Mexico,Mexico City,19.4326296,-99.1331785
+BRA,Autódromo José Carlos Pace,S America,Brazil,São Paulo,-23.5506507,-46.6333824
+QAT,Lusail International Circuit,Asia,Qatar,Lusail,25.4228888,51.5197163
+ABD,Yas Marina Circuit,Asia,UAE,Abu Dhabi,24.4538352,54.3774014
